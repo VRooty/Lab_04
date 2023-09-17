@@ -1,1 +1,42 @@
+header {
+  border: 10px solid black;
+  background-color: rgb(red, green, blue);
+}
+
+.row {
+  display: inline-block;
+  margin: 10px;
+}
+
+nav {
+  text-decoration: none;
+}
+
+.ET {
+  width: 250px;
+  height: 250px;
+}
+
+li {
+  display: inline-block;
+}
+
+body {
+  text-align: center;
+}
+
+body {
+  background-color: #f7f7f2;
+  font-family: "Poppins", sans-serif;
+  color: #2e282a;
+}
+
+body img {
+  width: 250px;
+  margin: 10px;
+}
+
+main {
+  font-family: "Plantagenet Cherokee";
+}
 
